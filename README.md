@@ -3,5 +3,5 @@ MEU NOME É MELISSA
 ESTOU ESTUDANDO NO ALURA
 ESTOU DESENVOLVENDO NA LINGUAGEM JavaScript
 UTILIZO ESSE ESPAÇO PARA MIHA ORGANIZAÇÃO E COMPARTILHAMENTO DOS MEUS PROJETOS DESENVOLVIDOS
-![]https://tenor.com/pt-BR/view/omicron-omega-dst-1913-delta-delta-sigma-theta-gif-16356124
-![]https://tenor.com/pt-BR/view/sad-sadness-upset-sad-hello-kitty-sadhk-gif-14608040041901332803
+![](https://tenor.com/pt-BR/view/omicron-omega-dst-1913-delta-delta-sigma-theta-gif-16356124)
+![](https://tenor.com/pt-BR/view/sad-sadness-upset-sad-hello-kitty-sadhk-gif-14608040041901332803)
